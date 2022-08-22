@@ -24,9 +24,9 @@ Key Features
 
 Installing
 ---
-1. Download the latest zip file.
-2. Extract to any folder on your computer or USB drive.
-2. Run the included .exe file.
+1. Download the latest exe file.
+2. Save to any folder on your computer or USB drive.
+2. Run the exe file.
 
 You can download older versions from the [releases page](https://github.com/KurtisLiggett/SyncFiles/releases).
 
